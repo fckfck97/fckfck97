@@ -13,7 +13,7 @@
 ## Skills
 
 [![Python](https://img.shields.io/badge/Python-424242?style=for-the-badge&logo=python&logoColor=339933&labelColor=222&color=339933)]()
-[![Django](https://img.shields.io/badge/Django-424242?style=for-the-badge&logo=django&logoColor=9EE9F8&labelColor=222&color=9EE9F8)]()
+[![Django](https://img.shields.io/badge/Django-424242?style=for-the-badge&logo=django&logoColor=092e20&labelColor=222&color=092e20)]()
 
 ### Languajes y Herramintas que Utilizo:
 
