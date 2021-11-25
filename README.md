@@ -5,7 +5,7 @@
 <br>
 <ul>
         <li>🔭 Entusiasta en Aprendizaje Automático y el Aprendizaje Profundo.</li>
-        <li>🤔 Areas que me Interesan : Aprendizaje Automático, Aprendizaje Profundo, Visión Artificial.</li>
+        <li>🤔 Areas que me Interesan : Aprendizaje Automático, Aprendizaje Profundo, Visión Artificial, Programacion Web con Django, Redes Neuronales, Reconocimiento Facial entre Otras cosas mas...!.</li>
         <li>💬 Donde pueden encontrarme.</li>
         <li>⚡ Dato curioso: me encanta automatizar mis tareas con la programación.</li>
 </ul>
