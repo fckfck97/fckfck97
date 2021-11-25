@@ -10,6 +10,15 @@
         <li>⚡ Dato curioso: me encanta automatizar mis tareas con la programación.</li>
 </ul>
 </i>
+## Skills
+
+[![HTML5](https://img.shields.io/badge/HTML5-424242?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=222&color=E34F26)]()
+[![CSS3](https://img.shields.io/badge/CSS3-424242?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=222&color=1572B6)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-424242?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=222&color=F7DF1E)]()
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-424242?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=222&color=7952B3)]()
+[![Python](https://img.shields.io/badge/Python-424242?style=for-the-badge&logo=python&logoColor=339933&labelColor=222&color=339933)]()
+[![Django](https://img.shields.io/badge/Django-424242?style=for-the-badge&logo=django&logoColor=9EE9F8&labelColor=222&color=9EE9F8)]()
 
 ### Languajes y Herramintas que Utilizo:
 
