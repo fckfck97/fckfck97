@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hola soy fckfck97 👋
+Soy un Desarrolador Backend con especialidad en Python/Django
+### 
 <!--
 **fckfck97/fckfck97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
